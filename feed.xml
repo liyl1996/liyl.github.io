@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>全是套路</title>
+    <link href="https://liyl.github.io/feed.xml" rel="self" />
+    <link href="https://liyl.github.io" />
+    <updated>2024-03-18T09:44:41+08:00</updated>
+    <author>
+        <name>李云龙</name>
+    </author>
+    <id>https://liyl.github.io</id>
+
+    <entry>
+        <title>hello world!</title>
+        <author>
+            <name>李云龙</name>
+        </author>
+        <link href="https://liyl.github.io/hello-world.html"/>
+        <id>https://liyl.github.io/hello-world.html</id>
+
+        <updated>2024-03-18T09:44:41+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
